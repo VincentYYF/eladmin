@@ -6,6 +6,9 @@
 - 码云：[https://gitee.com/elunez/eladmin-qt](https://gitee.com/elunez/eladmin-qt)
 - github：[https://github.com/elunez/eladmin-qd](https://github.com/elunez/eladmin-qd)
 
+#### 前端参考文档
+[https://panjiachen.github.io/vue-element-admin-site/zh/guide/](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
+
 #### 预览地址
 [http://auauz.net](http://auauz.net)
 - 用户名： admin
